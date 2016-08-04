@@ -1,0 +1,11 @@
+{
+  "name": "IM",
+  "version": "1.0.0",
+  "description": "A instant chat module",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "koa": "^2.0.0",
+    "socket.io": "^1.4.8"
+  }
+}
