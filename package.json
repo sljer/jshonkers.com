@@ -1,0 +1,25 @@
+{
+  "name": "jshonkers.com",
+  "version": "1.0.0",
+  "description": "A technical community concerned with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSHonkers/jshonkers.com.git"
+  },
+  "keywords": [
+    "React",
+    "Node.js",
+    "JSHonkers",
+    "ES6"
+  ],
+  "author": "JSHonkers",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JSHonkers/jshonkers.com/issues"
+  },
+  "homepage": "https://github.com/JSHonkers/jshonkers.com#readme"
+}
